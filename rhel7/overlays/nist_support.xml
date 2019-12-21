@@ -50,7 +50,7 @@ This requirement is permanent not a finding. No fix is required.
 <rationale>Full compliance with this requirement would require
 deployment of MLS SELinux policy. Cross domain systems are out of
 scope for this guide.</rationale>
-<description>Implimentation of this requirement is not applicable
+<description>Implementation of this requirement is not applicable
 for a general purpose deployment</description>
 <ref nist="" />
 </Rule>
